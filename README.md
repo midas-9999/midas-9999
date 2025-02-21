@@ -7,9 +7,9 @@
 <p align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d83c7bd040d6ae0a3c82832698f28eceecd6b86806f905a8bf79ea0cf3fe5d5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d49276d2b612b46756c6c2d737461636b2b646576656c6f7065723b616e642b49276d2b612b426c6f636b636861696e2b646576656c6f7065723b416c776179732b6c6561726e696e672b6e65772b7468696e67733b546f6765746865722c2b77652b63616e2b73686170652b612b646563656e7472616c697a65642b6675747572652663656e7465723d747275652677696474683d353030266865696768743d3630"><img src="https://camo.githubusercontent.com/1d83c7bd040d6ae0a3c82832698f28eceecd6b86806f905a8bf79ea0cf3fe5d5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d49276d2b612b46756c6c2d737461636b2b646576656c6f7065723b616e642b49276d2b612b426c6f636b636861696e2b646576656c6f7065723b416c776179732b6c6561726e696e672b6e65772b7468696e67733b546f6765746865722c2b77652b63616e2b73686170652b612b646563656e7472616c697a65642b6675747572652663656e7465723d747275652677696474683d353030266865696768743d3630" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&amp;center=true&amp;width=500&amp;height=60" style="max-width: 100%;"></a>
 </p>
-<img src="https://github.com/IceDev528/IceDev528/raw/main/Logo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
-High-Skilled and Rich-Experiencd Full stack and Blockchain developer.
+    <img src="https://github.com/IceDev528/IceDev528/raw/main/Logo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </h3><a id="user-content-im-excited-to-share-my-journey-as-a-full-stack-and-blockchain-developer-i-have-rich-experience-websites-and-blockchain-projects-development" class="anchor" aria-label="Permalink: 
 I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 I have rich experience websites and blockchain projects development.
